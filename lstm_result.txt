@@ -1,0 +1,355 @@
+my_name,my_value
+model_lstm0_output_70000_plus_6000.pth, 52.89616238589676
+model_lstm0_output_70000_plus_7000.pth, 53.86157765650635
+model_lstm0_output_70000_plus_8000.pth, 49.95825999946258
+model_lstm0_output_70000_plus_9000.pth, 49.85904178298492
+model_lstm0_output_70000_plus_10000.pth, 47.069059496172876
+model_lstm0_output_70000_plus_11000.pth, 49.62706032494444
+model_lstm0_output_70000_plus_12000.pth, 45.324768568932214
+model_lstm0_output_70000_plus_13000.pth, 43.23341509135277
+model_lstm0_output_70000_plus_14000.pth, 39.575557020020405
+model_lstm0_output_70000_plus_15000.pth, 39.22661315585664
+model_lstm0_output_70000_plus_16000.pth, 37.57695163992313
+model_lstm0_output_70000_plus_17000.pth, 40.651728609186826
+model_lstm0_output_70000_plus_18000.pth, 39.133702151403405
+model_lstm0_output_70000_plus_19000.pth, 37.759995863279514
+model_lstm0_output_70000_plus_20000.pth, 37.29688423239898
+model_lstm0_output_70000_plus_21000.pth, 38.879206921818586
+model_lstm0_output_70000_plus_22000.pth, 37.29411830518462
+model_lstm0_output_70000_plus_23000.pth, 35.82413642409779
+model_lstm0_output_70000_plus_24000.pth, 35.06777770520345
+model_lstm0_output_70000_plus_25000.pth, 35.616658175027034
+model_lstm0_output_70000_plus_26000.pth, 38.83314778266221
+model_lstm0_output_70000_plus_27000.pth, 37.283785890938404
+model_lstm0_output_70000_plus_28000.pth, 37.577788462479376
+model_lstm0_output_70000_plus_29000.pth, 36.50973775518652
+model_lstm0_output_70000_plus_30000.pth, 36.21926690479758
+model_lstm0_output_70000_plus_31000.pth, 35.761316564069965
+model_lstm0_output_70000_plus_31000.pth, 35.758070738080704
+model_lstm0_output_70000_plus_32000.pth, 34.27587892459333
+model_lstm0_output_70000_plus_33000.pth, 36.27363394665444
+model_lstm0_output_70000_plus_34000.pth, 35.813088376187345
+model_lstm0_output_70000_plus_35000.pth, 32.54376473445381
+model_lstm0_output_70000_plus_36000.pth, 33.62997749155222
+model_lstm0_output_70000_plus_37000.pth, 35.77853987238189
+model_lstm0_output_70000_plus_38000.pth, 34.458710702590096
+model_lstm0_output_70000_plus_39000.pth, 32.83639192671413
+model_lstm0_output_70000_plus_40000.pth, 34.530774212514146
+model_lstm0_output_70000_plus_41000.pth, 35.14632628684624
+model_lstm0_output_70000_plus_42000.pth, 41.576845154536436
+model_lstm0_output_70000_plus_43000.pth, 34.2914508812799
+model_lstm0_output_70000_plus_44000.pth, 32.5093357562837
+model_lstm0_output_70000_plus_45000.pth, 33.31828700314863
+model_lstm0_output_70000_plus_46000.pth, 33.98401314790298
+model_lstm0_output_70000_plus_47000.pth, 34.577070652447105
+model_lstm0_output_70000_plus_48000.pth, 32.69851100782641
+model_lstm0_output_70000_plus_49000.pth, 33.28467982015753
+model_lstm0_output_70000_plus_50000.pth, 33.815442637329895
+model_lstm0_output_70000_plus_51000.pth, 33.181508866088066
+model_lstm0_output_70000_plus_52000.pth, 32.251635871684584
+model_lstm0_output_70000_plus_53000.pth, 34.062688096693904
+model_lstm0_output_70000_plus_54000.pth, 33.34316276825678
+model_lstm0_output_70000_plus_55000.pth, 32.67137081394743
+model_lstm0_output_70000_plus_56000.pth, 33.23899762720834
+model_lstm0_output_70000_plus_57000.pth, 32.715711789223455
+model_lstm0_output_70000_plus_58000.pth, 32.97642421710061
+model_lstm0_output_70000_plus_59000.pth, 32.762577409065564
+model_lstm0_output_70000_plus_60000.pth, 31.100311165925167
+model_lstm0_output_70000_plus_61000.pth, 30.895213949280638
+model_lstm0_output_70000_plus_62000.pth, 31.312050312281773
+model_lstm0_output_70000_plus_63000.pth, 32.45639601337438
+model_lstm0_output_70000_plus_64000.pth, 33.25891498057109
+model_lstm0_output_70000_plus_65000.pth, 34.15509907015906
+model_lstm0_output_70000_plus_66000.pth, 31.230297324349998
+model_lstm0_output_70000_plus_67000.pth, 33.5093370314207
+model_lstm0_output_70000_plus_68000.pth, 31.265058093766076
+model_lstm0_output_138000_plus_0.pth, 31.164871921230596
+model_lstm0_output_138000_plus_1000.pth, 34.48403203744964
+model_lstm0_output_138000_plus_2000.pth, 31.629464487980464
+model_lstm0_output_138000_plus_3000.pth, 32.071097182184786
+model_lstm0_output_138000_plus_4000.pth, 31.686477875323522
+model_lstm0_output_138000_plus_5000.pth, 33.58419376936142
+model_lstm0_output_138000_plus_6000.pth, 32.44650669526814
+model_lstm0_output_138000_plus_7000.pth, 31.79420077930868
+model_lstm0_output_138000_plus_8000.pth, 33.01131394930267
+model_lstm0_output_138000_plus_9000.pth, 32.04052062388158
+model_lstm0_output_138000_plus_10000.pth, 35.13197563474762
+model_lstm0_output_138000_plus_11000.pth, 33.40185623664184
+model_lstm0_output_138000_plus_12000.pth, 33.6917455504751
+model_lstm0_output_138000_plus_13000.pth, 33.218626490661435
+model_lstm0_output_138000_plus_14000.pth, 31.864295395399363
+model_lstm0_output_138000_plus_15000.pth, 32.70315996275843
+model_lstm0_output_138000_plus_16000.pth, 30.9187115585256
+model_lstm0_output_138000_plus_17000.pth, 32.188803840696366
+model_lstm0_output_138000_plus_18000.pth, 31.641513792783638
+model_lstm0_output_138000_plus_19000.pth, 31.396247119467713
+model_lstm0_output_138000_plus_20000.pth, 29.842566021543952
+model_lstm0_output_138000_plus_21000.pth, 32.024304025253166
+model_lstm0_output_138000_plus_22000.pth, 30.704977606389754
+model_lstm0_output_138000_plus_23000.pth, 32.755646861047225
+model_lstm0_output_138000_plus_24000.pth, 30.80316413246172
+model_lstm0_output_138000_plus_25000.pth, 31.384718800503475
+model_lstm0_output_138000_plus_26000.pth, 31.67330438138632
+model_lstm0_output_138000_plus_27000.pth, 32.14781344311282
+model_lstm0_output_138000_plus_28000.pth, 29.932633552436066
+model_lstm0_output_138000_plus_29000.pth, 29.417651350941917
+model_lstm0_output_138000_plus_30000.pth, 30.35601096274274
+model_lstm0_output_138000_plus_31000.pth, 32.94919882321599
+model_lstm0_output_138000_plus_32000.pth, 30.817889079850918
+model_lstm0_output_138000_plus_33000.pth, 30.044899929037438
+model_lstm0_output_138000_plus_34000.pth, 32.38971976356056
+model_lstm0_output_138000_plus_35000.pth, 32.74198534541985
+model_lstm0_output_138000_plus_36000.pth, 32.499655314128965
+model_lstm0_output_138000_plus_37000.pth, 30.091197816269215
+model_lstm0_output_138000_plus_38000.pth, 30.753254228363623
+model_lstm0_output_138000_plus_39000.pth, 33.04139568548637
+model_lstm0_output_138000_plus_40000.pth, 31.62381500771417
+model_lstm0_output_138000_plus_41000.pth, 30.589279020681545
+model_lstm0_output_138000_plus_42000.pth, 31.94576576676967
+model_lstm0_output_138000_plus_43000.pth, 32.96267890378338
+model_lstm0_output_138000_plus_44000.pth, 29.782115696648123
+model_lstm0_output_138000_plus_45000.pth, 29.44070615710595
+model_lstm0_output_138000_plus_46000.pth, 30.14776944499159
+model_lstm0_output_138000_plus_47000.pth, 30.49573841021372
+model_lstm0_output_138000_plus_48000.pth, 29.785018579613876
+model_lstm0_output_138000_plus_49000.pth, 30.22003379343946
+model_lstm0_output_138000_plus_50000.pth, 31.700421569656907
+model_lstm0_output_138000_plus_51000.pth, 31.52719069148762
+model_lstm0_output_138000_plus_52000.pth, 31.130974609193444
+model_lstm0_output_138000_plus_53000.pth, 29.62188984684578
+model_lstm0_output_138000_plus_54000.pth, 29.11106492329252
+model_lstm0_output_138000_plus_55000.pth, 31.585891796864697
+model_lstm0_output_138000_plus_56000.pth, 29.251736618641694
+model_lstm0_output_138000_plus_57000.pth, 30.017183534929778
+model_lstm0_output_138000_plus_58000.pth, 29.738840795080016
+model_lstm0_output_138000_plus_59000.pth, 30.81163083335911
+model_lstm0_output_138000_plus_60000.pth, 30.048448754847666
+model_lstm0_output_138000_plus_61000.pth, 30.344443376485305
+model_lstm0_output_138000_plus_62000.pth, 31.71346677111825
+model_lstm0_output_138000_plus_63000.pth, 29.401072986947373
+model_lstm0_output_138000_plus_64000.pth, 33.27719077732853
+model_lstm0_output_138000_plus_65000.pth, 30.661444856084337
+model_lstm0_output_138000_plus_66000.pth, 29.343451746474067
+model_lstm0_output_138000_plus_67000.pth, 31.14397356980484
+model_lstm0_output_138000_plus_68000.pth, 30.902864002054812
+model_lstm0_output_138000_plus_69000.pth, 30.71414457032293
+
+
+model_lstm0_output_208k_plus_0.pth, 31.424405638264783
+model_lstm0_output_208k_plus_1000.pth, 30.944139736211223
+model_lstm0_output_208k_plus_2000.pth, 30.073382295574284
+model_lstm0_output_208k_plus_3000.pth, 31.4094536317293
+model_lstm0_output_208k_plus_4000.pth, 30.55896770665922
+model_lstm0_output_208k_plus_5000.pth, 28.359717278235422
+model_lstm0_output_208k_plus_6000.pth, 31.437732286227362
+model_lstm0_output_208k_plus_7000.pth, 29.46197313332715
+model_lstm0_output_208k_plus_8000.pth, 30.36334436042556
+model_lstm0_output_208k_plus_9000.pth, 28.88617998391877
+model_lstm0_output_208k_plus_10000.pth, 29.11131940122737
+model_lstm0_output_208k_plus_11000.pth, 28.0963074897281
+model_lstm0_output_208k_plus_12000.pth, 27.808701852636936
+model_lstm0_output_208k_plus_13000.pth, 28.573894282308906
+model_lstm0_output_208k_plus_14000.pth, 31.895468960226175
+model_lstm0_output_208k_plus_15000.pth, 28.020650065469155
+model_lstm0_output_208k_plus_16000.pth, 27.390550765121624
+
+model_lstm0_output_225k_plus_0.pth, 30.531244667619617
+model_lstm0_output_225k_plus_1000.pth, 26.502101432759233
+model_lstm0_output_225k_plus_2000.pth, 31.54913325344685
+model_lstm0_output_225k_plus_3000.pth, 29.507866338173695
+model_lstm0_output_225k_plus_4000.pth, 28.41602009100099
+model_lstm0_output_225k_plus_5000.pth, 28.756635191896994
+model_lstm0_output_225k_plus_6000.pth, 31.115144329492455
+model_lstm0_output_225k_plus_7000.pth, 28.75435417665943
+model_lstm0_output_225k_plus_8000.pth, 29.867609777876584
+model_lstm0_output_225k_plus_9000.pth, 29.74272632970151
+model_lstm0_output_225k_plus_10000.pth, 28.617780981533045
+model_lstm0_output_225k_plus_11000.pth, 28.52830099030812
+model_lstm0_output_225k_plus_12000.pth, 44.491588884507664
+model_lstm0_output_225k_plus_13000.pth, 32.9361982149475
+model_lstm0_output_225k_plus_14000.pth, 31.837871027688415
+model_lstm0_output_225k_plus_15000.pth, 30.267748106033704
+model_lstm0_output_225k_plus_16000.pth, 28.81221587216081
+model_lstm0_output_225k_plus_17000.pth, 29.66046342499436
+model_lstm0_output_225k_plus_18000.pth, 27.24489405822303
+model_lstm0_output_225k_plus_19000.pth, 30.418146774692147
+model_lstm0_output_225k_plus_20000.pth, 28.328830940747693
+model_lstm0_output_225k_plus_21000.pth, 28.95348200064429
+model_lstm0_output_225k_plus_22000.pth, 30.429184734416392
+model_lstm0_output_225k_plus_23000.pth, 29.502682020351443
+model_lstm0_output_225k_plus_24000.pth, 27.90252905054239
+model_lstm0_output_225k_plus_25000.pth, 28.82719095595543
+model_lstm0_output_225k_plus_26000.pth, 27.56276570787944
+model_lstm0_output_225k_plus_27000.pth, 27.027373457843424
+model_lstm0_output_225k_plus_28000.pth, 27.955652895311644
+model_lstm0_output_225k_plus_29000.pth, 26.412302402393596
+model_lstm0_output_225k_plus_30000.pth, 27.833902300661755
+model_lstm0_output_225k_plus_31000.pth, 27.66288256042474
+model_lstm0_output_225k_plus_32000.pth, 28.290927796715607
+model_lstm0_output_225k_plus_33000.pth, 27.774798350915777
+model_lstm0_output_225k_plus_34000.pth, 28.816978029781964
+model_lstm0_output_225k_plus_35000.pth, 31.176582731789875
+model_lstm0_output_225k_plus_36000.pth, 31.195992692090826
+model_lstm0_output_225k_plus_37000.pth, 29.412579414414452
+model_lstm0_output_225k_plus_38000.pth, 28.6418041963995
+model_lstm0_output_225k_plus_39000.pth, 28.41195874772079
+model_lstm0_output_225k_plus_40000.pth, 27.916311857044242
+model_lstm0_output_225k_plus_41000.pth, 27.98663167441078
+model_lstm0_output_225k_plus_42000.pth, 27.796245945404486
+model_lstm0_output_225k_plus_43000.pth, 29.33450193071122
+model_lstm0_output_225k_plus_44000.pth, 30.707870116360578
+model_lstm0_output_225k_plus_45000.pth, 29.55963909960467
+model_lstm0_output_225k_plus_46000.pth, 29.45479472790449
+model_lstm0_output_225k_plus_47000.pth, 28.829756817799563
+model_lstm0_output_225k_plus_48000.pth, 28.255106700563022
+model_lstm0_output_225k_plus_49000.pth, 29.180767117339933
+model_lstm0_output_225k_plus_50000.pth, 26.849871009935033
+model_lstm0_output_225k_plus_51000.pth, 27.563110687149507
+model_lstm0_output_225k_plus_52000.pth, 26.103834134258086
+model_lstm0_output_225k_plus_53000.pth, 29.01236944415929
+model_lstm0_output_225k_plus_54000.pth, 28.950795723744704
+model_lstm0_output_225k_plus_55000.pth, 37.60698475691628
+model_lstm0_output_225k_plus_56000.pth, 35.095066531558906
+model_lstm0_output_225k_plus_57000.pth, 28.56091173110034
+model_lstm0_output_225k_plus_58000.pth, 28.230002262995573
+model_lstm0_output_225k_plus_59000.pth, 28.100401131833888
+model_lstm0_output_225k_plus_60000.pth, 28.74923783382947
+model_lstm0_output_225k_plus_61000.pth, 32.33615010716037
+model_lstm0_output_225k_plus_62000.pth, 29.669930882567748
+model_lstm0_output_225k_plus_63000.pth, 27.526960568909626
+model_lstm0_output_225k_plus_64000.pth, 25.995359462422527
+model_lstm0_output_225k_plus_65000.pth, 26.988608296568376
+model_lstm0_output_225k_plus_66000.pth, 30.559695054125296
+model_lstm0_output_225k_plus_67000.pth, 26.238630418411976
+model_lstm0_output_225k_plus_68000.pth, 28.03196149395036
+model_lstm0_output_225k_plus_69000.pth, 28.18343219203383
+model_lstm0_output_225k_plus_70000.pth, 27.975076005353838
+model_lstm0_output_225k_plus_71000.pth, 27.43698318956025
+model_lstm0_output_225k_plus_72000.pth, 27.444388620598602
+model_lstm0_output_225k_plus_73000.pth, 28.185166517391927
+model_lstm0_output_225k_plus_74000.pth, 27.057180769641203
+model_lstm0_output_225k_plus_75000.pth, 27.496446926945485
+model_lstm0_output_225k_plus_76000.pth, 27.73558796502757
+model_lstm0_output_225k_plus_77000.pth, 27.922171311207382
+model_lstm0_output_225k_plus_78000.pth, 28.05417535500481
+model_lstm0_output_225k_plus_79000.pth, 26.762524749946717
+model_lstm0_output_225k_plus_80000.pth, 28.31344797516464
+model_lstm0_output_225k_plus_81000.pth, 26.90161256746202
+model_lstm0_output_225k_plus_82000.pth, 28.49700950570125
+model_lstm0_output_225k_plus_83000.pth, 27.109957759149793
+
+model_lstm0_output_309k_plus_0.pth, 28.66335075224588
+model_lstm0_output_309k_plus_1000.pth, 27.066930077222654
+model_lstm0_output_309k_plus_2000.pth, 27.641287157925074
+model_lstm0_output_309k_plus_3000.pth, 28.5346552432739
+model_lstm0_output_309k_plus_4000.pth, 27.152622208825022
+model_lstm0_output_309k_plus_5000.pth, 28.04982513650321
+model_lstm0_output_309k_plus_6000.pth, 29.336967208869346
+model_lstm0_output_309k_plus_7000.pth, 26.480051346913516
+model_lstm0_output_309k_plus_8000.pth, 24.600034753169055
+model_lstm0_output_309k_plus_9000.pth, 34.05695944852836
+model_lstm0_output_309k_plus_10000.pth, 27.508631290675787
+model_lstm0_output_309k_plus_11000.pth, 28.005452795477495
+model_lstm0_output_309k_plus_12000.pth, 28.059887350943974
+model_lstm0_output_309k_plus_13000.pth, 26.956806994183548
+model_lstm0_output_309k_plus_14000.pth, 28.658454841535306
+model_lstm0_output_309k_plus_15000.pth, 28.02637263559308
+model_lstm0_output_309k_plus_16000.pth, 31.18424601453892
+model_lstm0_output_309k_plus_17000.pth, 34.20479924792952
+model_lstm0_output_309k_plus_18000.pth, 29.99656599912207
+model_lstm0_output_309k_plus_19000.pth, 29.247076383355196
+model_lstm0_output_309k_plus_20000.pth, 30.69508375142071
+model_lstm0_output_309k_plus_21000.pth, 27.77145111588647
+model_lstm0_output_309k_plus_22000.pth, 29.711602444113932
+model_lstm0_output_309k_plus_23000.pth, 30.774824942299887
+model_lstm0_output_309k_plus_24000.pth, 34.05574663589692
+model_lstm0_output_309k_plus_25000.pth, 29.043163338826968
+model_lstm0_output_309k_plus_26000.pth, 28.1539824592688
+model_lstm0_output_309k_plus_27000.pth, 32.095686096068164
+model_lstm0_output_309k_plus_28000.pth, 27.244592001426604
+model_lstm0_output_309k_plus_29000.pth, 30.529080106252362
+model_lstm0_output_309k_plus_30000.pth, 28.83017006600449
+model_lstm0_output_309k_plus_31000.pth, 25.357601895094028
+model_lstm0_output_309k_plus_32000.pth, 27.661254933008887
+model_lstm0_output_309k_plus_33000.pth, 28.152474420681386
+model_lstm0_output_309k_plus_34000.pth, 35.98162362896473
+model_lstm0_output_309k_plus_35000.pth, 28.750193110820184
+model_lstm0_output_309k_plus_36000.pth, 27.3911781599036
+model_lstm0_output_309k_plus_37000.pth, 28.451437966341874
+model_lstm0_output_309k_plus_38000.pth, 27.752158281419415
+model_lstm0_output_309k_plus_39000.pth, 26.01488994733877
+model_lstm0_output_309k_plus_40000.pth, 27.522019914111144
+model_lstm0_output_309k_plus_41000.pth, 28.410018405377098
+model_lstm0_output_309k_plus_42000.pth, 28.570611508977994
+model_lstm0_output_309k_plus_43000.pth, 31.595993689184798
+model_lstm0_output_309k_plus_44000.pth, 32.54114097491587
+model_lstm0_output_309k_plus_45000.pth, 27.548432684296852
+model_lstm0_output_309k_plus_46000.pth, 26.21872563414562
+model_lstm0_output_309k_plus_47000.pth, 25.919051304297174
+model_lstm0_output_309k_plus_48000.pth, 27.224837390069872
+model_lstm0_output_309k_plus_49000.pth, 26.12905030075173
+model_lstm0_output_309k_plus_50000.pth, 25.80738582193302
+model_lstm0_output_309k_plus_51000.pth, 26.835814028031542
+model_lstm0_output_360k_plus_0.pth, 27.997882540388765
+model_lstm0_output_360k_plus_1000.pth, 25.27032222753149
+model_lstm0_output_360k_plus_2000.pth, 26.419456992795446
+model_lstm0_output_360k_plus_3000.pth, 25.52354167127022
+model_lstm0_output_360k_plus_4000.pth, 26.811458584151737
+model_lstm0_output_360k_plus_5000.pth, 26.60162424266123
+model_lstm0_output_360k_plus_6000.pth, 27.896702614184424
+model_lstm0_output_360k_plus_7000.pth, 26.079579450997947
+model_lstm0_output_360k_plus_8000.pth, 28.325910985374026
+model_lstm0_output_360k_plus_9000.pth, 26.717983310478274
+model_lstm0_output_360k_plus_10000.pth, 23.830235838041208
+model_lstm0_output_360k_plus_11000.pth, 28.609243194686726
+model_lstm0_output_360k_plus_12000.pth, 24.44778251168548
+
+model_lstm0_output_360k_plus_12000.pth, 24.472582224754582
+ model_lstm0_output_360k_plus_13000.pth, 24.8236284021584
+ model_lstm0_output_360k_plus_14000.pth, 30.251824161822803
+ model_lstm0_output_360k_plus_15000.pth, 24.6744858915263
+ model_lstm0_output_360k_plus_16000.pth, 25.150064782256244
+ model_lstm0_output_360k_plus_17000.pth, 26.072389237406735
+ model_lstm0_output_360k_plus_18000.pth, 24.99822039509924
+ model_lstm0_output_360k_plus_19000.pth, 26.5648620875946
+ model_lstm0_output_360k_plus_20000.pth, 22.671025349050893
+ model_lstm0_output_360k_plus_21000.pth, 23.90046454740531
+ model_lstm0_output_360k_plus_22000.pth, 23.501945219040902
+ model_lstm0_output_360k_plus_23000.pth, 23.39018644349381
+ model_lstm0_output_360k_plus_24000.pth, 25.386221706555535
+ model_lstm0_output_360k_plus_25000.pth, 26.504659843246575
+ model_lstm0_output_360k_plus_26000.pth, 25.621876738658553
+ model_lstm0_output_360k_plus_27000.pth, 23.95614085130627
+ model_lstm0_output_360k_plus_28000.pth, 24.512983487841296
+ model_lstm0_output_360k_plus_29000.pth, 26.050666200552154
+ model_lstm0_output_360k_plus_30000.pth, 24.442766525902133
+ model_lstm0_output_360k_plus_31000.pth, 22.179564602800657
+ model_lstm0_output_360k_plus_32000.pth, 22.355950663200076
+ model_lstm0_output_360k_plus_33000.pth, 22.75214237998708
+ model_lstm0_output_360k_plus_34000.pth, 22.836653793490154
+ model_lstm0_output_360k_plus_35000.pth, 24.72061487236629
+ model_lstm0_output_360k_plus_36000.pth, 22.63833142429367
+ model_lstm0_output_360k_plus_37000.pth, 21.701528961627552
+ model_lstm0_output_360k_plus_38000.pth, 23.625434473859244
+ model_lstm0_output_360k_plus_39000.pth, 22.11562718012487
+ model_lstm0_output_360k_plus_40000.pth, 22.85630931128352
+ model_lstm0_output_360k_plus_41000.pth, 26.455287587513226
+ model_lstm0_output_360k_plus_42000.pth, 28.46882155975746
+ model_lstm0_output_360k_plus_43000.pth, 25.762013453525288
+ model_lstm0_output_360k_plus_44000.pth, 34.405677556115656
+ model_lstm0_output_360k_plus_45000.pth, 29.25836549291549
+ model_lstm0_output_360k_plus_46000.pth, 26.759918451138887
+ model_lstm0_output_360k_plus_47000.pth, 22.639501560716234
+ model_lstm0_output_360k_plus_48000.pth, 25.626586891012657
+ model_lstm0_output_416k_plus_0.pth, 23.333442194270038
+ model_lstm0_output_416k_plus_1000.pth, 23.781278421274926
+ model_lstm0_output_416k_plus_2000.pth, 21.758474613787822
+ model_lstm0_output_416k_plus_3000.pth, 24.35036150883883
+ model_lstm0_output_416k_plus_4000.pth, 24.477072077351455
+ model_lstm0_output_416k_plus_5000.pth, 24.376116937804383
+ model_lstm0_output_416k_plus_6000.pth, 25.06165768913196
+ model_lstm0_output_416k_plus_7000.pth, 25.008784969581914
+ model_lstm0_output_416k_plus_8000.pth, 26.910025346427247
+ model_lstm0_output_416k_plus_9000.pth, 24.11895601499331
+ model_lstm0_output_416k_plus_10000.pth, 27.089822207158363
+ model_lstm0_output_416k_plus_11000.pth, 23.393010103532834
